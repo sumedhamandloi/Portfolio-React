@@ -8,11 +8,7 @@
 
 This Repository is created by "Rachit Neema" , using the basic knowledge of React in the "DEVTOWN React Bootcamp" 
 
-## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/rachits-projects-4ce907d2/v0-react-portfolio-page](https://vercel.com/rachits-projects-4ce907d2/v0-react-portfolio-page)**
 
 
 
