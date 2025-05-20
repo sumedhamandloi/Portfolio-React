@@ -23,9 +23,9 @@ const projects: Project[] = [
   },
   {
     title: "E-commerce Platform",
-    description: "A full-stack e-commerce solution with payment integration.",
-    technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-    link: "#",
+    description: "A Coffee Shop website named 'Cold Brew' with diffrent project listed.",
+    technologies: ["HTML", "CSS", "JAVASCRIPT"],
+    link: "https://splendorous-melba-d2e180.netlify.app/",
   },
   {
     title: "Task Management App",
