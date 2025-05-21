@@ -1,5 +1,5 @@
 ## React APP
-https://rachitneema-portfolio.netlify.app/
+https://sumedhamandloi-portfolio.netlify.app/
 
 
 ## Overview
@@ -9,7 +9,7 @@ https://rachitneema-portfolio.netlify.app/
 
 Here's the link to access the Portfolio React app
 
-link : https://rachitneema-portfolio.netlify.app/
+link : (https://sumedhamandloi-portfolio.netlify.app/)
 
 
 
