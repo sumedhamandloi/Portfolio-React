@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Github, Linkedin, Twitter } from "lucide-react"
+haimport { Mail, Phone, MapPin, Github, Linkedin, Twitter } from "lucide-react"
 
 export default function Contact() {
   return (
@@ -16,11 +16,11 @@ export default function Contact() {
           <div className="space-y-4">
             <div className="flex items-center">
               <Mail className="h-5 w-5 text-purple-600 mr-3" />
-              <span>rachitneemawork@gmail.com</span>
+              <span>sumedhamandloi@gmail.com</span>
             </div>
             <div className="flex items-center">
               <Phone className="h-5 w-5 text-purple-600 mr-3" />
-              <span>+91 9755241956</span>
+              <span>+91 9202447334</span>
             </div>
             <div className="flex items-center">
               <MapPin className="h-5 w-5 text-purple-600 mr-3" />
