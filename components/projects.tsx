@@ -17,14 +17,14 @@ const projects: Project[] = [
   },
   {
     title: "Portfolio Website",
-    description: "Personal portfolio website built with Next.js.",
-    technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    link: "#",
+    description: "Personal portfolio website for my Personal Qualification.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://sumedhamandloi-portfolio-4dc453.netlify.app/",
   },
   {
     title: "E-commerce Platform",
     description: "A Coffee Shop website named 'Cold Brew' with diffrent project listed.",
-    technologies: ["HTML", "CSS", "JAVASCRIPT"],
+    technologies: ["HTML", "CSS", "JavaScript"],
     link: "https://splendorous-melba-d2e180.netlify.app/",
   },
   {
