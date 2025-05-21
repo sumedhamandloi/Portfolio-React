@@ -13,7 +13,7 @@ const technicalSkills: Skill[] = [
   { name: "JavaScript", level: "Expert", percentage: 90 },
   { name: "JAVA", level: "Intermediate", percentage: 75 },
   { name: "React", level: "Expert", percentage: 85 },
-  { name: "PYTHON", level: "Advanced", percentage: 80 },
+  { name: "Python", level: "Advanced", percentage: 80 },
   { name: "HTML/CSS", level: "Expert", percentage: 90 },
   { name: "C/C++", level: "Advanced", percentage: 85 },
 ]
