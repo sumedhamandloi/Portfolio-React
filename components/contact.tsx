@@ -7,7 +7,7 @@ export default function Contact() {
         <h2 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-teal-500 mb-4">
           Get In Touch
         </h2>
-        <p className="text-gray-600">Feel free to contact me for any work or suggestions</p>
+        <p> className="text-gray-600">Feel free to contact me for any work or suggestions</p>
       </div>
 
       <div className="grid md:grid-cols-2 gap-8">
