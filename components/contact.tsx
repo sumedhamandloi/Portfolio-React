@@ -1,4 +1,4 @@
-haimport { Mail, Phone, MapPin, Github, Linkedin, Twitter } from "lucide-react"
+import { Mail, Phone, MapPin, Github, Linkedin, Twitter } from "lucide-react"
 
 export default function Contact() {
   return (
