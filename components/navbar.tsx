@@ -15,8 +15,8 @@ export default function Navbar() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <div className="flex items-center gap-2">
-                  <span className="text-xl font-bold">RN</span>
-                  <span className="hidden md:block text-xl font-semibold">Rachit Neema</span>
+                  <span className="text-xl font-bold">SM</span>
+                  <span className="hidden md:block text-xl font-semibold">Sumedha Mandloi</span>
                 </div>
               </div>
             </div>
